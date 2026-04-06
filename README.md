@@ -14,6 +14,7 @@
         * Workshops taken over Map of India
         * Pie chart based on Total Workshops taken to Type of Workshops.
 
+
 * Workshop Related Features
     > Instructors can Accept, Reject or Delete workshops based on their preference, also they can postpone a workshop based on coordinators request.
 
